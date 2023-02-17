@@ -11,6 +11,6 @@ export class ComponenteFilhoComponent  {
  @Input() sobrenome = "";
  @Output() mostraNome = new EventEmitter();
  
- nome = " ";
+ nome = " ";  
 
 }
